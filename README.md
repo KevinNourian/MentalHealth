@@ -1,4 +1,4 @@
-![Alt_Text](https://github.com/KevinNourian/COVID19/blob/main/Images/SouthKorea2.PNG)
+![Alt_Text](https://github.com/KevinNourian/Tech-Mental-Health/blob/main/Images/what-is-mental-health.png)
 
 # Introduction
 Mental health is an important issue. Mental health affects every area of life and a person who is dealing with mental health issues is less productive in the workplace than one who does not. Dealing with mental health disorders can impact productivity levels. A mentally healthy person is more likely to work more efficiently and provide higher-quality work. This is why mental health is an important issue.
