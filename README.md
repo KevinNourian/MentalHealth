@@ -20,10 +20,12 @@ The goal of this analysis is to provide some clarity about mental health issues 
 
 # Datasets
 
-I used 3 databases from Kaggle's Mental Health in the Tech Industry and concentrated on tech industry workers who work for tech companies. I did not choose participants who answered No to the question that asked if their primary role in the company is a tech/IT related (QuestionID 9). I did not choose participants who answered No to the question that asked if the employer is primarily a tech company/organization (QuestionID 13).
-
-The total number of participants in my analysis is 909.
+I used 3 databases from Kaggle's Mental Health in the Tech Industry and concentrated on tech industry workers who work for tech companies: 
 
 1. Survey: Contains the year each survey was conducted. The year serves as the SurveyID.
 2. Question: Contains 105 questions. Not all questions were used in all the years. Not all questions were given to every individual surveyed. Each question has a unique QuestionID.
 3. Answer: Contains 236,898 answers. Participants generally answered more than one question. The answers are in a column called AnswerText.
+
+I did not choose participants who answered No to the question that asked if their primary role in the company is a tech/IT related (QuestionID 9). I did not choose participants who answered No to the question that asked if the employer is primarily a tech company/organization (QuestionID 13).
+
+The total number of participants in my analysis is 909.
