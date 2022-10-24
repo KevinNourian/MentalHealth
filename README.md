@@ -5,11 +5,7 @@ Mental health affects every area of life and a person who is dealing with mental
 
 According to the World Health Organization, Mental health is described as a state of well-being where a person can cope with the normal stresses of life. This state permits productive work output and allows for meaningful contributions to society. In the United States, the Centers for Disease Control and Prevention (CDC) estimates that 1 in 5 adults experience at least one mental health condition every year.
 
-In this report, I will analyze the findings of 5 surveys of tech industry workers related to mental health. The surveys were taken in 2014, 2016, 2017, 2018, and 2019. In total, 4218 people from 79 countries participated in the surveys. The surveys have a real bias since the majority of participants were males from the United States. 
-
-I used 3 databases from Kaggle's Mental Health in the Tech Industry and concentrated on tech industry workers who work for tech companies. I did not choose participants who answered No to the question that asked if their primary role in the company is a tech/IT related (QuestionID 9). I did not choose participants who answered No to the question that asked if the employer is primarily a tech company/organization (QuestionID 13).
-
-The total number of participants in my analysis is 909.
+In this report, I will analyze the findings of 5 surveys of tech industry workers related to mental health. The surveys were taken in 2014, 2016, 2017, 2018, and 2019. In total, 4218 people from 79 countries participated in the surveys. The surveys have a real bias since the majority of participants were males from the United States.
 
 # Goal
 The goal of this analysis is to provide some clarity about mental health issues encountered by tech workers in tech companies.
@@ -23,6 +19,10 @@ The goal of this analysis is to provide some clarity about mental health issues 
 5. Provide suggestions about how the analysis can be improved.
 
 # Datasets
+
+I used 3 databases from Kaggle's Mental Health in the Tech Industry and concentrated on tech industry workers who work for tech companies. I did not choose participants who answered No to the question that asked if their primary role in the company is a tech/IT related (QuestionID 9). I did not choose participants who answered No to the question that asked if the employer is primarily a tech company/organization (QuestionID 13).
+
+The total number of participants in my analysis is 909.
 
 1. Survey: Contains the year each survey was conducted. The year serves as the SurveyID.
 2. Question: Contains 105 questions. Not all questions were used in all the years. Not all questions were given to every individual surveyed. Each question has a unique QuestionID.
