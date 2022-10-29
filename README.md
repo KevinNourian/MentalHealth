@@ -1,11 +1,9 @@
 ![Alt_Text](https://github.com/KevinNourian/Tech-Mental-Health/blob/main/Images/what-is-mental-health.png)
 
 # Introduction
-According to the World Health Organization, Mental health is described as a state of well-being where a person can cope with the normal stresses of life. This state permits productive work output and allows for meaningful contributions to society. In the United States, the Centers for Disease Control and Prevention (CDC) estimates that 1 in 5 adults experience at least one mental health condition every year.
+According to the World Health Organization, Mental health is described as a state of well-being where a person can cope with the normal stresses of life. This state permits productive work output and allows for meaningful contributions to society. In the United States, the Centers for Disease Control and Prevention (CDC) estimates that 1 in 5 adults experience at least one mental health condition every year. Historically, there has been a stigma attached to discussing issues related to mental health. This stigma may influence how people deal with mental health issues in their workplace. 
 
-A mentally healthy person is more likely to work efficiently and provide higher-quality work. Historically, there has been a stigma attached to discussing issues related to mental health. This stigma may influence how people deal with mental health issues in their workplace.
-
-In this report, I will analyze the findings of 5 surveys of tech industry workers related to mental health. The surveys were taken in 2014, 2016, 2017, 2018, and 2019. In total, 4218 people from 79 countries participated in the surveys. 
+In this report, I will analyze the findings of 5 surveys of tech industry workers related to mental health. The surveys were taken in 2014, 2016, 2017, 2018, and 2019. In total, 4218 people from 79 countries participated in the surveys.
 
 # Goal
 The goal of this analysis is to provide some clarity about mental health issues encountered by tech workers in tech companies.
